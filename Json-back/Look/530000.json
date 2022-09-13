@@ -1,0 +1,64 @@
+[
+  {
+    "look_id": 530000,
+    "look_title": "SUMMER BBQ",
+    "products": [
+      [
+        {
+          "id": "5609057",
+          "path": "JPEG/Look/530000/5609057"
+        },
+        {
+          "id": "5261289",
+          "path": "JPEG/Look/530000/f913e06d-d3ac-4644-88ac-35faa652e7ee.jpeg"
+        },
+        {
+          "id": "5447104",
+          "path": "JPEG/Look/530000/0421f0fb-ef50-4f2f-b473-5ca0bb9f8d2a.jpeg"
+        }
+      ],
+      [
+        {
+          "id": "5608990",
+          "path": "JPEG/Look/530000/8c86e885-c9e5-48c7-b1ba-f2ed24c2bce9.jpeg"
+        },
+        {
+          "id": "5608304",
+          "path": "JPEG/Look/530000/3d7d3039-2fc7-4206-80e8-5c2367e325de.jpeg"
+        },
+        {
+          "id": "5668254",
+          "path": "JPEG/Look/530000/afb2df86-165d-4d67-b07a-5e5fa946c80e.jpeg"
+        }
+      ],
+      [
+        {
+          "id": "3310261",
+          "path": "JPEG/Look/530000/ef223e27-5673-4a00-8675-02b219c21196.jpeg"
+        },
+        {
+          "id": "3197719",
+          "path": "JPEG/Look/530000/c72ccbaa-e452-48e2-bf1d-3de0312d87c2.jpeg"
+        },
+        {
+          "id": "3197719",
+          "path": "JPEG/Look/530000/9081a8bc-19ec-4ebb-b5da-48bea275d464.jpeg"
+        }
+      ],
+      [
+        {
+          "id": "5215406",
+          "path": "JPEG/Look/530000/11ebd6c7-7f95-411e-a1e5-8be36f71b748.jpeg"
+        },
+        {
+          "id": "5215406",
+          "path": "JPEG/Look/530000/b9e998f1-1da8-426c-a657-91736699b8d3.jpeg"
+        },
+        {
+          "id": "4911599",
+          "path": "JPEG/Look/530000/6350cf5b-fb0e-478b-8253-bdb6cf310fe5.jpeg"
+        }
+      ]
+    ]
+  }
+]

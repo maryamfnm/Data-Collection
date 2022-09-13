@@ -1,0 +1,58 @@
+[
+  {
+    "look_id": 530010,
+    "look_title": "GRABBING COFFEE",
+    "products": [
+      [
+        {
+          "id": "4456686",
+          "path": "JPEG/Look/530010/641d3199-f25d-4622-a1b8-76fb00bb1a4f.jpeg"
+        }
+      ],
+      [
+        {
+          "id": "4907574",
+          "path": "JPEG/Look/530010/d62c237d-e485-4943-ad43-841419fe8df0.jpeg"
+        }
+      ],
+      [
+        {
+          "id": "5620519",
+          "path": "JPEG/Look/530010/1f7b5c06-a819-4784-86dc-48daa13342cd.jpeg"
+        },
+        {
+          "id": "5446113",
+          "path": "JPEG/Look/530010/afd5c29c-4926-45ed-a750-ed30355de527.jpeg"
+        },
+        {
+          "id": "5603830",
+          "path": "JPEG/Look/530010/4db534cc-52ea-4584-b92f-c15a5780c8e0.jpeg"
+        }
+      ],
+      [
+        {
+          "id": "5170964",
+          "path": "JPEG/Look/530010/7fa7402d-ecda-482e-96be-ea5d06dd2b06.jpeg"
+        },
+        {
+          "id": "5626565",
+          "path": "JPEG/Look/530010/c11200cd-992b-4bd8-a903-be431e107f47.jpeg"
+        }
+      ],
+      [
+        {
+          "id": "5591593",
+          "path": "JPEG/Look/530010/5b4fb1df-44dd-464b-a0fc-a9e2af1cb5cd.jpeg"
+        },
+        {
+          "id": "5591589",
+          "path": "JPEG/Look/530010/dfed07af-ed6f-4b3b-a529-418ea2aef190.jpeg"
+        },
+        {
+          "id": "5194038",
+          "path": "JPEG/Look/530010/5b9cda16-3695-4dc6-ad03-66013d90438d.jpeg"
+        }
+      ]
+    ]
+  }
+]
